@@ -1,20 +1,45 @@
 ---
 layout: single
-title: "ActingCTO service"
+title: "About"
 permalink: /about/
 author_profile: true
 author: Tran Ly Vu
 classes: wide
 ---
 
-1. If you are an entrepreneur with no IT background but having a strong passion to start an IT startup
+I am a system engineer with about 4 years of experience in both software engineering and system engineering.
 
-2. If you are searching for a partner/CTO with some IT experience, but you are worried that:
-* You might find along the way that your partner is not fit and there is no good exit option by then because you really need an IT partner to build your product.
-* Your IT partner want more stake than you anticipate, leaving you with less than you originally expected.
-* You are no longer the sole decision-maker because your IT partner has some power to influence the direction of your startup.
+I spent my spare time to work on open-source projects and provide [technical support](actingcto.github.io) to startups during their initial stage.
 
-Feel free to contact me as I have solutions for your problems.
+Experience
+---
 
-I am interested in providing IT support (with no fee) to non-technical entrepreneurs in order to start their own IT startups. Entrepreneurs will get to keep their big stake, making them the real owner of their startups.
+* [Accellion](https://www.accellion.com) (2018 - present, Singapore)
+* [National Cybersecurity R&D Lab](https://www.ncl.sg) (2016 - 2018, Singapore)
+* [HedgeSPA](https://www.hedgespa.com) (2015, Singapore)
 
+Education
+---
+
+* [National University of Singapore](https://www.nus.edu.sg) (2010 - 2014, Singapore)
+
+Open-Source projects
+---
+
+### As maintainer (help required)
+
+- **[wiki-link](https://github.com/tranlyvu/wiki-link)**: A web-scraping application to find the minimum number of links between 2 given wiki pages.
+
+- **[recommender](https://github.com/tranlyvu/recommender)**: A recommendation application using either item-based or user-based approaches.
+
+### As individual developer
+
+- **[py-libp2p](https://github.com/zixuanzh/py-libp2p)**: Python implementation of pip2p - a modular peer-to-peer networking stack (used by [IPFS](https://ipfs.io/) and others).
+
+### As language translator
+
+- **[First Contributions](https://github.com/firstcontributions/first-contributions)**: Help beginners to contribute to open source projects. 
+
+- **[The System Design Primer](https://github.com/donnemartin/system-design-primer)**: Learn how to design large-scale systems.
+
+ 
