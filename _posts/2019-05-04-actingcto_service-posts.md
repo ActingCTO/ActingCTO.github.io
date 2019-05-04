@@ -13,8 +13,6 @@ tags:
   - actingcto service
 ---
 
-ActingCTO service
----
 
 1. If you are an entrepreneur with no IT background but having a strong passion to start an IT startup
 
