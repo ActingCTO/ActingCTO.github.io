@@ -1,7 +1,10 @@
 ---
-layout: post
+layout: single
+read_time: true
+share: true
 classes: wide
 title: "ActingCTO service"
+comments: true
 author_profile: true
 author: Tran Ly Vu
 categories:
