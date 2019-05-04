@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 read_time: true
 share: true
 classes: wide
