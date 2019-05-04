@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About"
+title: "Home"
 permalink: /
 author_profile: true
 author: Tran Ly Vu
