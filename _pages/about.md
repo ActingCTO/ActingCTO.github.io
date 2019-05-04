@@ -9,7 +9,7 @@ classes: wide
 
 I am a system engineer with about 4 years of experience in both software engineering and system engineering.
 
-I spent my spare time to work on open-source projects and provide [technical support](actingcto.github.io) to startups during their initial stage.
+I spent my spare time to work on open-source projects and provide [technical support](https://actingcto.github.io/) to startups during their initial stage.
 
 Experience
 ---
