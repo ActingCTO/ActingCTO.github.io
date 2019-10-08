@@ -1,5 +1,10 @@
-# [actingcto.github.io](https://actingcto.github.io/)
+# **External Memory Algorithms**
 
-Source code of actingcto website, [https://actingcto.github.io/](https://actingcto.github.io/). 
 
-It is built with [Jekyll](http://jekyllrb.com) and is based on [Minimal Mistakes Theme](https://mmistakes.github.io/minimal-mistakes/). 
+
+---
+License
+---
+
+See the [LICENSE](https://github.com/tranlyvu/wiki-link/blob/master/LICENSE) file for license rights and limitations (Apache License 2.0).
+
